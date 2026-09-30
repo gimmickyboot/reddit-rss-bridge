@@ -88,4 +88,4 @@ These endpoints can then be subscribed to from any compatible RSS reader.
 
 ## License
 
-A licence will be selected before the first public release.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
